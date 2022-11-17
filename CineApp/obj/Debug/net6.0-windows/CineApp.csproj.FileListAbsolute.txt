@@ -1,0 +1,394 @@
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.ConsultarEntrada.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.GenerateResource.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.exe
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.runtimeconfig.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CopyComplete
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\refint\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.genruntimeconfig.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\ref\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Sorteo.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Reporte.Reporte.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.exe
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.runtimeconfig.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.ConsultarEntrada.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Sorteo.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Reporte.Reporte.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.GenerateResource.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CopyComplete
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\refint\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.genruntimeconfig.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\ref\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.TestForm.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.Presentacion.FormCompras.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Presentacion.FrmAcercaDe.resources
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.exe
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.deps.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.runtimeconfig.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.AssemblyReference.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.ConsultarEntrada.resources
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.Presentacion.FormCompras.resources
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Presentacion.FrmAcercaDe.resources
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Sorteo.resources
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.TestForm.resources
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.GenerateResource.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfoInputs.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfo.cs
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CoreCompileInputs.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CopyComplete
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\refint\CineApp.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.genruntimeconfig.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineApp\obj\Debug\net6.0-windows\ref\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.exe
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.runtimeconfig.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.ConsultarEntrada.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.Presentacion.FormCompras.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Presentacion.FrmAcercaDe.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Sorteo.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.TestForm.resources
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.GenerateResource.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CopyComplete
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\refint\CineApp.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.genruntimeconfig.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineApp\obj\Debug\net6.0-windows\ref\CineApp.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.exe
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.deps.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.runtimeconfig.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\CineBackend.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.AssemblyReference.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.ConsultarEntrada.resources
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.Presentacion.FormCompras.resources
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Sorteo.resources
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\WinFormsTPPrueba.TestForm.resources
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.GenerateResource.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfoInputs.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.AssemblyInfo.cs
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CoreCompileInputs.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.csproj.CopyComplete
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\refint\CineApp.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.genruntimeconfig.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\ref\CineApp.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ReportesCineApp.exe
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ReportesCineApp.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\bin\Debug\net6.0-windows\ReportesCineApp.exe.config
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Presentacion.Login.resources
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Properties.Resources.resources
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Presentacion.FormNuevosComprobantes.resources
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineApp\obj\Debug\net6.0-windows\CineApp.Presentacion.FrmAcercaDe.resources

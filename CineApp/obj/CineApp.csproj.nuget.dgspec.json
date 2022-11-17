@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineApp\\CineApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos C#\\ReportesCineApp\\ReportesCineApp\\ReportesCineApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos C#\\ReportesCineApp\\ReportesCineApp\\ReportesCineApp.csproj",
+        "projectName": "ReportesCineApp",
+        "projectPath": "C:\\Proyectos C#\\ReportesCineApp\\ReportesCineApp\\ReportesCineApp.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineApp\\CineApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineApp\\CineApp.csproj",
+        "projectName": "CineApp",
+        "projectPath": "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineApp\\CineApp.csproj",
+        "packagesPath": "C:\\Users\\Salas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Salas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Proyectos C#\\ReportesCineApp\\ReportesCineApp\\ReportesCineApp.csproj": {
+                "projectPath": "C:\\Proyectos C#\\ReportesCineApp\\ReportesCineApp\\ReportesCineApp.csproj"
+              },
+              "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineBackend\\CineBackend.csproj": {
+                "projectPath": "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineBackend\\CineBackend.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1537.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineBackend\\CineBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineBackend\\CineBackend.csproj",
+        "projectName": "CineBackend",
+        "projectPath": "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineBackend\\CineBackend.csproj",
+        "packagesPath": "C:\\Users\\Salas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Salas\\OneDrive\\Escritorio\\CineApp\\CineBackend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Salas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

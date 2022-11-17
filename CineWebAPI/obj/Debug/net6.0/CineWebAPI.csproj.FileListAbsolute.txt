@@ -1,0 +1,176 @@
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.exe
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.runtimeconfig.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\scopedcss\bundle\CineWebAPI.styles.css
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CopyComplete
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\refint\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.genruntimeconfig.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineWebAPI\obj\Debug\net6.0\ref\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.exe
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.runtimeconfig.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\scopedcss\bundle\CineWebAPI.styles.css
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CopyComplete
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\refint\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.genruntimeconfig.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineWebAPI\obj\Debug\net6.0\ref\CineWebAPI.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.exe
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.deps.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.runtimeconfig.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.AssemblyReference.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfoInputs.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfo.cs
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CoreCompileInputs.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\scopedcss\bundle\CineWebAPI.styles.css
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CopyComplete
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\refint\CineWebAPI.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.genruntimeconfig.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineWebAPI\obj\Debug\net6.0\ref\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.exe
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.runtimeconfig.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\scopedcss\bundle\CineWebAPI.styles.css
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CopyComplete
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\refint\CineWebAPI.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.genruntimeconfig.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineWebAPI\obj\Debug\net6.0\ref\CineWebAPI.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.exe
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.deps.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.runtimeconfig.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.AssemblyReference.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfoInputs.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.AssemblyInfo.cs
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\scopedcss\bundle\CineWebAPI.styles.css
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.csproj.CopyComplete
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\refint\CineWebAPI.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\CineWebAPI.genruntimeconfig.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\obj\Debug\net6.0\ref\CineWebAPI.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll

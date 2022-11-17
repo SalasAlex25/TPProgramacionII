@@ -1,0 +1,60 @@
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\refint\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\CineApp\CineBackend\obj\Debug\net6.0\ref\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\refint\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\Juntar\CineApp\CineBackend\obj\Debug\net6.0\ref\CineBackend.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.deps.json
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.AssemblyReference.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfoInputs.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfo.cs
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.CoreCompileInputs.cache
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\refint\CineBackend.dll
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.pdb
+D:\00Nacho\Tecnicatura Universitaria en Programacion\00Materias 2do Cuatrimestre\3 Laboratorio de Computacion II\TPI\V4\CineApp\CineBackend\obj\Debug\net6.0\ref\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.deps.json
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.AssemblyReference.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfoInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfo.cs
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.CoreCompileInputs.cache
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\refint\CineBackend.dll
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.pdb
+C:\Users\Anahi\OneDrive\Escritorio\Prueba reportes\v2\CineApp\CineBackend\obj\Debug\net6.0\ref\CineBackend.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.deps.json
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.AssemblyReference.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfoInputs.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfo.cs
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.csproj.CoreCompileInputs.cache
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\refint\CineBackend.dll
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\CineBackend.pdb
+C:\Users\Salas\OneDrive\Escritorio\CineApp\CineBackend\obj\Debug\net6.0\ref\CineBackend.dll
